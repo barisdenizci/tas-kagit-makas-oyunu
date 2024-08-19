@@ -1,6 +1,6 @@
 import random
 
-def tas_kagit_makas_SELİN_ÇABUKEL():
+def tas_kagit_makas_BARİS_DENİZCİ():
     def baslangic_mesaji():
         #İlk başlangıç mesajı ekrana yazdırdık.
         print("Taş-Kağıt-Makas oyununa hoş geldiniz!")
@@ -99,4 +99,4 @@ def tas_kagit_makas_SELİN_ÇABUKEL():
             print("Bilgisayar oyuna devam ediyor ")
 
 #Fonksiyonu çalıştırdık.
-tas_kagit_makas_SELİN_ÇABUKEL()
+tas_kagit_makas_BARİS_DENİZCİ()
